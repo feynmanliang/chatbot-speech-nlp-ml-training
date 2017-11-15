@@ -160,6 +160,8 @@ $\text{argmin}\_\theta \sum\_i L(f\_\theta(x\_i), y\_i)$
 
 ### Gradient descent optimization
 
+$$\theta\_{t+1} \leftarrow \theta\_t + \eta \nabla\_\theta \left( \sum\_i L(f\_{\theta\_t}(x\_i), y\_i) \right)$$
+
 ![](images/gradient_descent.png)
 
 ---
