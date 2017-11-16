@@ -104,7 +104,7 @@ $$\propto P(speech | words) P(words)$$
 
 ---
 
-### Classiciation
+### Classification
 
 Given **data** $x\_i \in \mathbb{R}^d$
 
